@@ -1,4 +1,4 @@
-# fribud.is
+# Fríbúðin
 Bergþórugata 20 (í gulu húsi andrýmis)
 
 OPNUNARTÍMI:

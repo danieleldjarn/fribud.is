@@ -3,3 +3,6 @@ description: Hérna er allt um Fríbúðina
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+buttons:
+  fribud-1_url: /fribud-1
+  fribud-1_titile: Fríbúðin Andrými

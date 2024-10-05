@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-image: url('/assets/images/header-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* Optional: Adjust the height if necessary */
+  padding: 100px 0; /* Adjust the padding to increase header height */
+  color: #fff; /* If needed, change text color for better contrast */
+}
